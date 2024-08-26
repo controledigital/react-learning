@@ -10,7 +10,7 @@ function Sidebar() {
     className="sidebar-header hidden lg:flex items-center relative justify-between px-3 lg:px-6 shrink-0"
     id="sidebar_header"
   >
-    <a className="dark:hidden" href="html/demo1.html">
+    <a className="dark:hidden" href="/">
       <img
         alt=""
         className="default-logo min-h-[22px] max-w-none"
@@ -22,7 +22,7 @@ function Sidebar() {
         src="/media/app/mini-logo.svg"
       />
     </a>
-    <a className="hidden dark:block" href="html/demo1.html">
+    <a className="hidden dark:block" href="/">
       <img
         alt=""
         className="default-logo min-h-[22px] max-w-none"
@@ -86,7 +86,7 @@ function Sidebar() {
             <div className="menu-item">
               <a
                 className="menu-link gap-[14px] pl-[10px] pr-[10px] py-[8px] border border-transparent items-center grow menu-item-active:bg-secondary-active dark:menu-item-active:bg-coal-300 dark:menu-item-active:border-gray-100 menu-item-active:rounded-lg hover:bg-secondary-active dark:hover:bg-coal-300 dark:hover:border-gray-100 hover:rounded-lg"
-                href="html/demo1.html"
+                href="/"
                 tabIndex={0}
               >
                 <span className="menu-bullet flex w-[6px] relative before:absolute before:top-0 before:size-[6px] before:rounded-full before:-translate-x-1/2 before:-translate-y-1/2 menu-item-active:before:bg-primary menu-item-hover:before:bg-primary"></span>
