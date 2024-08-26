@@ -83,7 +83,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/default.html"
+                              href="html/coditpl/public-profile/profiles/default.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -95,7 +95,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/creator.html"
+                              href="html/coditpl/public-profile/profiles/creator.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -107,7 +107,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/company.html"
+                              href="html/coditpl/public-profile/profiles/company.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -119,7 +119,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/nft.html"
+                              href="html/coditpl/public-profile/profiles/nft.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -131,7 +131,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/blogger.html"
+                              href="html/coditpl/public-profile/profiles/blogger.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -143,7 +143,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/crm.html"
+                              href="html/coditpl/public-profile/profiles/crm.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -155,7 +155,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/gamer.html"
+                              href="html/coditpl/public-profile/profiles/gamer.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -169,7 +169,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/feeds.html"
+                              href="html/coditpl/public-profile/profiles/feeds.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -181,7 +181,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/plain.html"
+                              href="html/coditpl/public-profile/profiles/plain.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -193,7 +193,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/profiles/modal.html"
+                              href="html/coditpl/public-profile/profiles/modal.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -262,7 +262,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/projects/3-columns.html"
+                              href="html/coditpl/public-profile/projects/3-columns.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -276,7 +276,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/projects/2-columns.html"
+                              href="html/coditpl/public-profile/projects/2-columns.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -290,7 +290,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/works.html"
+                              href="html/coditpl/public-profile/works.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -302,7 +302,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/teams.html"
+                              href="html/coditpl/public-profile/teams.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -314,7 +314,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/network.html"
+                              href="html/coditpl/public-profile/network.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -326,7 +326,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/activity.html"
+                              href="html/coditpl/public-profile/activity.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -340,7 +340,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/campaigns/card.html"
+                              href="html/coditpl/public-profile/campaigns/card.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -356,7 +356,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/campaigns/list.html"
+                              href="html/coditpl/public-profile/campaigns/list.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -370,7 +370,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/public-profile/empty.html"
+                              href="html/coditpl/public-profile/empty.html"
                               tabIndex={0}
                             >
                               <span className="menu-icon">
@@ -460,7 +460,7 @@ function Header() {
                     <div className="menu-item">
                       <a
                         className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                        href="html/demo1/account/integrations.html"
+                        href="html/coditpl/account/integrations.html"
                       >
                         <span className="menu-icon">
                           <i className="ki-filled ki-technology-2"></i>
@@ -471,7 +471,7 @@ function Header() {
                     <div className="menu-item">
                       <a
                         className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                        href="html/demo1/account/notifications.html"
+                        href="html/coditpl/account/notifications.html"
                       >
                         <span className="menu-icon">
                           <i className="ki-filled ki-notification-1"></i>
@@ -482,7 +482,7 @@ function Header() {
                     <div className="menu-item">
                       <a
                         className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                        href="html/demo1/account/api-keys.html"
+                        href="html/coditpl/account/api-keys.html"
                       >
                         <span className="menu-icon">
                           <i className="ki-filled ki-key"></i>
@@ -493,7 +493,7 @@ function Header() {
                     <div className="menu-item">
                       <a
                         className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                        href="html/demo1/account/appearance.html"
+                        href="html/coditpl/account/appearance.html"
                       >
                         <span className="menu-icon">
                           <i className="ki-filled ki-eye"></i>
@@ -504,7 +504,7 @@ function Header() {
                     <div className="menu-item">
                       <a
                         className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                        href="html/demo1/account/invite-a-friend.html"
+                        href="html/coditpl/account/invite-a-friend.html"
                       >
                         <span className="menu-icon">
                           <i className="ki-filled ki-user-tick"></i>
@@ -517,7 +517,7 @@ function Header() {
                     <div className="menu-item">
                       <a
                         className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                        href="html/demo1/account/activity.html"
+                        href="html/coditpl/account/activity.html"
                       >
                         <span className="menu-icon">
                           <i className="ki-filled ki-support"></i>
@@ -565,7 +565,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/get-started.html"
+                            href="html/coditpl/account/home/get-started.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -576,7 +576,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/user-profile.html"
+                            href="html/coditpl/account/home/user-profile.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -587,7 +587,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/company-profile.html"
+                            href="html/coditpl/account/home/company-profile.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -598,7 +598,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/settings-sidebar.html"
+                            href="html/coditpl/account/home/settings-sidebar.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -609,7 +609,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/settings-enterprise.html"
+                            href="html/coditpl/account/home/settings-enterprise.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -620,7 +620,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/settings-plain.html"
+                            href="html/coditpl/account/home/settings-plain.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Plain</span>
@@ -629,7 +629,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/home/settings-modal.html"
+                            href="html/coditpl/account/home/settings-modal.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Modal</span>
@@ -645,7 +645,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/billing/basic.html"
+                            href="html/coditpl/account/billing/basic.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -656,7 +656,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/billing/enterprise.html"
+                            href="html/coditpl/account/billing/enterprise.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -667,7 +667,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/billing/plans.html"
+                            href="html/coditpl/account/billing/plans.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Plans</span>
@@ -676,7 +676,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/billing/history.html"
+                            href="html/coditpl/account/billing/history.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -718,7 +718,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/get-started.html"
+                            href="html/coditpl/account/security/get-started.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -729,7 +729,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/overview.html"
+                            href="html/coditpl/account/security/overview.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -740,7 +740,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/allowed-ip-addresses.html"
+                            href="html/coditpl/account/security/allowed-ip-addresses.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -751,7 +751,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/privacy-settings.html"
+                            href="html/coditpl/account/security/privacy-settings.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -762,7 +762,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/device-management.html"
+                            href="html/coditpl/account/security/device-management.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -773,7 +773,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/backup-and-recovery.html"
+                            href="html/coditpl/account/security/backup-and-recovery.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -784,7 +784,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/current-sessions.html"
+                            href="html/coditpl/account/security/current-sessions.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -795,7 +795,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/security-log.html"
+                            href="html/coditpl/account/security/security-log.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -813,7 +813,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/team-starter.html"
+                            href="html/coditpl/account/members/team-starter.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -824,7 +824,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/teams.html"
+                            href="html/coditpl/account/members/teams.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Teams</span>
@@ -833,7 +833,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/team-info.html"
+                            href="html/coditpl/account/members/team-info.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Team Info</span>
@@ -842,7 +842,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/members-starter.html"
+                            href="html/coditpl/account/members/members-starter.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -853,7 +853,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/team-members.html"
+                            href="html/coditpl/account/members/team-members.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -864,7 +864,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/import-members.html"
+                            href="html/coditpl/account/members/import-members.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -875,7 +875,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/roles.html"
+                            href="html/coditpl/account/members/roles.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Roles</span>
@@ -884,7 +884,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/permissions-toggle.html"
+                            href="html/coditpl/account/members/permissions-toggle.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -895,7 +895,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/permissions-check.html"
+                            href="html/coditpl/account/members/permissions-check.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -913,7 +913,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/integrations.html"
+                            href="html/coditpl/account/integrations.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -924,7 +924,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/notifications.html"
+                            href="html/coditpl/account/notifications.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -935,7 +935,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/api-keys.html"
+                            href="html/coditpl/account/api-keys.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">API Keys</span>
@@ -944,7 +944,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/appearance.html"
+                            href="html/coditpl/account/appearance.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -955,7 +955,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/invite-a-friend.html"
+                            href="html/coditpl/account/invite-a-friend.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">
@@ -966,7 +966,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/activity.html"
+                            href="html/coditpl/account/activity.html"
                             tabIndex={0}
                           >
                             <span className="menu-title grow-0">Activity</span>
@@ -1065,7 +1065,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-cards/mini-cards.html"
+                              href="html/coditpl/network/user-cards/mini-cards.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1076,7 +1076,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-cards/author.html"
+                              href="html/coditpl/network/user-cards/author.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1087,7 +1087,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-cards/nft.html"
+                              href="html/coditpl/network/user-cards/nft.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">Authors</span>
@@ -1096,7 +1096,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-cards/social.html"
+                              href="html/coditpl/network/user-cards/social.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1132,7 +1132,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-base/team-crew.html"
+                              href="html/coditpl/network/user-base/team-crew.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1143,7 +1143,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-base/app-roster.html"
+                              href="html/coditpl/network/user-base/app-roster.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1154,7 +1154,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-base/market-authors.html"
+                              href="html/coditpl/network/user-base/market-authors.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1165,7 +1165,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-base/saas-users.html"
+                              href="html/coditpl/network/user-base/saas-users.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1176,7 +1176,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-base/store-clients.html"
+                              href="html/coditpl/network/user-base/store-clients.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1187,7 +1187,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/network/user-base/visitors.html"
+                              href="html/coditpl/network/user-base/visitors.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1242,7 +1242,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/sign-in.html"
+                              href="html/coditpl/authentication/classic/sign-in.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">Sign In</span>
@@ -1251,7 +1251,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/sign-up.html"
+                              href="html/coditpl/authentication/classic/sign-up.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">Sign Up</span>
@@ -1260,7 +1260,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/2fa.html"
+                              href="html/coditpl/authentication/classic/2fa.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">2FA</span>
@@ -1269,7 +1269,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/check-email.html"
+                              href="html/coditpl/authentication/classic/check-email.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1285,7 +1285,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/reset-password/enter-email.html"
+                              href="html/coditpl/authentication/classic/reset-password/enter-email.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1296,7 +1296,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/reset-password/check-email.html"
+                              href="html/coditpl/authentication/classic/reset-password/check-email.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1307,7 +1307,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/reset-password/change-password.html"
+                              href="html/coditpl/authentication/classic/reset-password/change-password.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1318,7 +1318,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/classic/reset-password/password-changed.html"
+                              href="html/coditpl/authentication/classic/reset-password/password-changed.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1336,7 +1336,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/sign-in.html"
+                              href="html/coditpl/authentication/branded/sign-in.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">Sign In</span>
@@ -1345,7 +1345,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/sign-up.html"
+                              href="html/coditpl/authentication/branded/sign-up.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">Sign Up</span>
@@ -1354,7 +1354,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/2fa.html"
+                              href="html/coditpl/authentication/branded/2fa.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">2FA</span>
@@ -1363,7 +1363,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/check-email.html"
+                              href="html/coditpl/authentication/branded/check-email.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1379,7 +1379,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/reset-password/enter-email.html"
+                              href="html/coditpl/authentication/branded/reset-password/enter-email.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1390,7 +1390,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/reset-password/check-email.html"
+                              href="html/coditpl/authentication/branded/reset-password/check-email.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1401,7 +1401,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/reset-password/change-password.html"
+                              href="html/coditpl/authentication/branded/reset-password/change-password.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1412,7 +1412,7 @@ function Header() {
                           <div className="menu-item">
                             <a
                               className="menu-link"
-                              href="html/demo1/authentication/branded/reset-password/password-changed.html"
+                              href="html/coditpl/authentication/branded/reset-password/password-changed.html"
                               tabIndex={0}
                             >
                               <span className="menu-title grow-0">
@@ -1432,7 +1432,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                          href="html/demo1/authentication/welcome-message.html"
+                          href="html/coditpl/authentication/welcome-message.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-like-2"></i>
@@ -1445,7 +1445,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                          href="html/demo1/authentication/account-deactivated.html"
+                          href="html/coditpl/authentication/account-deactivated.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-shield-cross"></i>
@@ -1458,7 +1458,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                          href="html/demo1/authentication/error-404.html"
+                          href="html/coditpl/authentication/error-404.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-message-question"></i>
@@ -1469,7 +1469,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link border border-transparent menu-link-hover:!bg-light menu-link-hover:border-gray-200 menu-item-active:!bg-light menu-item-active:border-gray-200 dark:menu-link-hover:!bg-coal-600 dark:menu-link-hover:border-gray-100 dark:menu-item-active:!bg-coal-600 dark:menu-item-active:border-gray-100"
-                          href="html/demo1/authentication/error-500.html"
+                          href="html/coditpl/authentication/error-500.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-information"></i>
@@ -1726,7 +1726,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/members/teams.html"
+                            href="html/coditpl/account/members/teams.html"
                           >
                             <span className="menu-icon">
                               <i className="ki-filled ki-users"></i>
@@ -1754,7 +1754,7 @@ function Header() {
                             <div className="menu-item">
                               <a
                                 className="menu-link"
-                                href="html/demo1/account/members/import-members.html"
+                                href="html/coditpl/account/members/import-members.html"
                               >
                                 <span className="menu-icon">
                                   <i className="ki-filled ki-shield-search"></i>
@@ -1765,7 +1765,7 @@ function Header() {
                             <div className="menu-item">
                               <a
                                 className="menu-link"
-                                href="html/demo1/account/members/import-members.html"
+                                href="html/coditpl/account/members/import-members.html"
                               >
                                 <span className="menu-icon">
                                   <i className="ki-filled ki-calendar"></i>
@@ -1776,7 +1776,7 @@ function Header() {
                             <div className="menu-item">
                               <a
                                 className="menu-link"
-                                href="html/demo1/account/members/import-members.html"
+                                href="html/coditpl/account/members/import-members.html"
                               >
                                 <span className="menu-icon">
                                   <i className="ki-filled ki-filter-edit"></i>
@@ -1791,7 +1791,7 @@ function Header() {
                         <div className="menu-item">
                           <a
                             className="menu-link"
-                            href="html/demo1/account/security/privacy-settings.html"
+                            href="html/coditpl/account/security/privacy-settings.html"
                           >
                             <span className="menu-icon">
                               <i className="ki-filled ki-setting-3"></i>
@@ -2190,7 +2190,7 @@ function Header() {
           <div className="grid p-5 border-t border-t-gray-200">
             <a
               className="btn btn-sm btn-light justify-center"
-              href="html/demo1/account/api-keys.html"
+              href="html/coditpl/account/api-keys.html"
             >
               Go to Apps
             </a>
@@ -2294,7 +2294,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link"
-                          href="html/demo1/account/home/settings-sidebar.html"
+                          href="html/coditpl/account/home/settings-sidebar.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-sms"></i>
@@ -2305,7 +2305,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link"
-                          href="html/demo1/account/home/settings-sidebar.html"
+                          href="html/coditpl/account/home/settings-sidebar.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-message-notify"></i>
@@ -2316,7 +2316,7 @@ function Header() {
                       <div className="menu-item">
                         <a
                           className="menu-link"
-                          href="html/demo1/account/home/settings-sidebar.html"
+                          href="html/coditpl/account/home/settings-sidebar.html"
                         >
                           <span className="menu-icon">
                             <i className="ki-filled ki-notification-status"></i>
@@ -3803,7 +3803,7 @@ function Header() {
                   </span>
                   <a
                     className="text-xs text-gray-600 hover:text-primary font-medium leading-none"
-                    href="html/demo1/account/home/get-started.html"
+                    href="html/coditpl/account/home/get-started.html"
                   >
                     c.fisher@gmail.com
                   </a>
@@ -3818,7 +3818,7 @@ function Header() {
               <div className="menu-item">
                 <a
                   className="menu-link"
-                  href="html/demo1/public-profile/profiles/default.html"
+                  href="html/coditpl/public-profile/profiles/default.html"
                 >
                   <span className="menu-icon">
                     <i className="ki-filled ki-badge"></i>
@@ -3829,7 +3829,7 @@ function Header() {
               <div className="menu-item">
                 <a
                   className="menu-link"
-                  href="html/demo1/account/home/user-profile.html"
+                  href="html/coditpl/account/home/user-profile.html"
                 >
                   <span className="menu-icon">
                     <i className="ki-filled ki-profile-circle"></i>
@@ -3857,7 +3857,7 @@ function Header() {
                   <div className="menu-item">
                     <a
                       className="menu-link"
-                      href="html/demo1/account/home/get-started.html"
+                      href="html/coditpl/account/home/get-started.html"
                     >
                       <span className="menu-icon">
                         <i className="ki-filled ki-coffee"></i>
@@ -3868,7 +3868,7 @@ function Header() {
                   <div className="menu-item">
                     <a
                       className="menu-link"
-                      href="html/demo1/account/home/user-profile.html"
+                      href="html/coditpl/account/home/user-profile.html"
                     >
                       <span className="menu-icon">
                         <i className="ki-filled ki-some-files"></i>
@@ -3897,7 +3897,7 @@ function Header() {
                   <div className="menu-item">
                     <a
                       className="menu-link"
-                      href="html/demo1/account/security/overview.html"
+                      href="html/coditpl/account/security/overview.html"
                     >
                       <span className="menu-icon">
                         <i className="ki-filled ki-medal-star"></i>
@@ -3908,7 +3908,7 @@ function Header() {
                   <div className="menu-item">
                     <a
                       className="menu-link"
-                      href="html/demo1/account/members/teams.html"
+                      href="html/coditpl/account/members/teams.html"
                     >
                       <span className="menu-icon">
                         <i className="ki-filled ki-setting"></i>
@@ -3919,7 +3919,7 @@ function Header() {
                   <div className="menu-item">
                     <a
                       className="menu-link"
-                      href="html/demo1/account/integrations.html"
+                      href="html/coditpl/account/integrations.html"
                     >
                       <span className="menu-icon">
                         <i className="ki-filled ki-switch"></i>
@@ -3931,7 +3931,7 @@ function Header() {
                   <div className="menu-item">
                     <a
                       className="menu-link"
-                      href="html/demo1/account/security/overview.html"
+                      href="html/coditpl/account/security/overview.html"
                     >
                       <span className="menu-icon">
                         <i className="ki-filled ki-shield-tick"></i>
@@ -4067,7 +4067,7 @@ function Header() {
               <div className="menu-item px-4 py-1.5">
                 <a
                   className="btn btn-sm btn-light justify-center"
-                  href="html/demo1/authentication/classic/sign-in.html"
+                  href="html/coditpl/authentication/classic/sign-in.html"
                 >
                   Log out
                 </a>

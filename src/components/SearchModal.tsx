@@ -94,7 +94,7 @@ export default function SearchModal() {
                                         <div className="menu-item">
                                             <a
                                                 className="menu-link"
-                                                href="html/demo1/account/home/settings-sidebar.html"
+                                                href="html/coditpl/account/home/settings-sidebar.html"
                                             >
                       <span className="menu-icon">
                         <i className="ki-filled ki-sms"></i>
@@ -105,7 +105,7 @@ export default function SearchModal() {
                                         <div className="menu-item">
                                             <a
                                                 className="menu-link"
-                                                href="html/demo1/account/home/settings-sidebar.html"
+                                                href="html/coditpl/account/home/settings-sidebar.html"
                                             >
                       <span className="menu-icon">
                         <i className="ki-filled ki-message-notify"></i>
@@ -116,7 +116,7 @@ export default function SearchModal() {
                                         <div className="menu-item">
                                             <a
                                                 className="menu-link"
-                                                href="html/demo1/account/home/settings-sidebar.html"
+                                                href="html/coditpl/account/home/settings-sidebar.html"
                                             >
                       <span className="menu-icon">
                         <i className="ki-filled ki-notification-status"></i>

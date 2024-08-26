@@ -5,7 +5,7 @@ function Footer() {
                 <div className="flex order-2 md:order-1 gap-2 font-normal text-2sm">
                     <span className="text-gray-500">2024©</span>
                     <a className="text-gray-600 hover:text-primary" href="https://keenthemes.com">
-                        Keenthemes Inc.
+                        Controle Digital Ltda.
                     </a>
                 </div>
                 <nav className="flex order-1 md:order-2 gap-4 font-normal text-2sm text-gray-600">

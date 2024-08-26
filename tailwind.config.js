@@ -1,10 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
-  safelist: [
-		'demo1',
+	content: [
+		"./src/**/*.{js,ts,jsx,tsx}",
+	],
+	safelist: [
+		'coditpl',
 		'hidden',
 		'ki-filled',
 		'ki-outline',
@@ -578,7 +578,7 @@ export default {
 				}
 			},
 			layouts: {
-				demo1: {
+				coditpl: {
 					sidebar: {
 						width: {
 							desktop: '280px',
@@ -633,4 +633,3 @@ export default {
 		require('./src/metronic/core/plugins/components/leaflet')
 	]
 }
-
