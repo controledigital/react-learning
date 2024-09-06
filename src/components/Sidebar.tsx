@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 function Sidebar() {
   return <div
   className="sidebar dark:bg-coal-600 bg-light border-r border-r-gray-200 dark:border-r-coal-100 fixed top-0 bottom-0 z-20 hidden lg:flex flex-col items-stretch shrink-0"
@@ -10,7 +12,7 @@ function Sidebar() {
     className="sidebar-header hidden lg:flex items-center relative justify-between px-3 lg:px-6 shrink-0"
     id="sidebar_header"
   >
-    <a className="dark:hidden" href="/">
+    <Link className="dark:hidden" href="/">
       <img
         alt=""
         className="default-logo min-h-[22px] max-w-none"
@@ -21,8 +23,8 @@ function Sidebar() {
         className="small-logo min-h-[22px] max-w-none"
         src="/media/app/mini-logo.svg"
       />
-    </a>
-    <a className="hidden dark:block" href="/">
+    </Link>
+    <Link className="hidden dark:block" href="/">
       <img
         alt=""
         className="default-logo min-h-[22px] max-w-none"
@@ -33,7 +35,7 @@ function Sidebar() {
         className="small-logo min-h-[22px] max-w-none"
         src="/media/app/mini-logo.svg"
       />
-    </a>
+    </Link>
     <button
       className="btn btn-icon btn-icon-md size-[30px] rounded-lg border border-gray-200 dark:border-gray-300 bg-light text-gray-500 hover:text-gray-700 toggle absolute left-full top-2/4 -translate-x-2/4 -translate-y-2/4"
       data-toggle="body"
@@ -84,7 +86,7 @@ function Sidebar() {
           </div>
           <div className="menu-accordion gap-0.5 pl-[10px] relative before:absolute before:left-[20px] before:top-0 before:bottom-0 before:border-l before:border-gray-200">
             <div className="menu-item">
-              <a
+              <Link
                 className="menu-link gap-[14px] pl-[10px] pr-[10px] py-[8px] border border-transparent items-center grow menu-item-active:bg-secondary-active dark:menu-item-active:bg-coal-300 dark:menu-item-active:border-gray-100 menu-item-active:rounded-lg hover:bg-secondary-active dark:hover:bg-coal-300 dark:hover:border-gray-100 hover:rounded-lg"
                 href="/"
                 tabIndex={0}
@@ -93,7 +95,7 @@ function Sidebar() {
                 <span className="menu-title text-2sm font-medium text-gray-700 menu-item-active:text-primary menu-item-active:font-semibold menu-link-hover:!text-primary">
                   Light Sidebar
                 </span>
-              </a>
+              </Link>
             </div>
             <div className="menu-item">
               <a

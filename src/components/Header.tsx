@@ -1,3 +1,4 @@
+import Link from 'next/link';
 
 function Header() {
   return <header
@@ -13,18 +14,20 @@ function Header() {
     id="header_container"
   >
     <div className="flex gap-1 lg:hidden items-center -ml-1">
-      <a className="shrink-0" href="/">
-        <img alt="" className="max-h-[25px] w-full" src="/media/app/mini-logo.svg" />
-      </a>
       <div className="flex items-center">
         <button
-          className="btn btn-icon btn-light btn-clear btn-sm"
+          className="btn btn-icon btn-light btn-clear btn-sm -ml-2 -mr-1"
           data-drawer-toggle="#sidebar"
         >
           <i className="ki-filled ki-menu"></i>
         </button>
+      </div>
+      <Link className="shrink-0" href="/">
+        <img alt="" className="max-h-[25px] w-full" src="/media/app/mini-logo.svg" />
+      </Link>
+      <div className="flex items-center">
         <button
-          className="btn btn-icon btn-light btn-clear btn-sm"
+          className="btn btn-icon btn-light btn-clear btn-sm ml-2"
           data-drawer-toggle="#megamenu_wrapper"
         >
           <i className="ki-filled ki-burger-menu-2"></i>
@@ -51,12 +54,12 @@ function Header() {
             id="megamenu"
           >
             <div className="menu-item active">
-              <a
+              <Link
                 className="menu-link text-nowrap text-sm text-gray-700 font-medium menu-item-hover:text-primary menu-item-active:text-gray-900 menu-item-active:font-semibold"
                 href="/"
               >
                 <span className="menu-title text-nowrap">Home</span>
-              </a>
+              </Link>
             </div>
             <div
               className="menu-item"
@@ -2039,6 +2042,33 @@ function Header() {
             <span>Enabled</span>
           </div>
           <div className="flex flex-col scrollable-y-auto max-h-[400px] divide-y divide-gray-200">
+            <div className="flex items-center justify-between flex-wrap gap-2 px-5 py-3.5">
+              <div className="flex items-center flex-wrap gap-2">
+                <div className="flex items-center justify-center shrink-0 rounded-full bg-gray-100 border border-gray-200 size-10">
+                  <img
+                    alt=""
+                    className="size-6"
+                    src="/media/brand-logos/jira.svg"
+                  />
+                </div>
+                <div className="flex flex-col">
+                  <a
+                    className="text-2sm font-semibold text-gray-900 hover:text-primary-active"
+                    href="chatwoot"
+                  >
+                    Chatwoot
+                  </a>
+                  <span className="text-2xs font-medium text-gray-600">
+                    Omnichannel
+                  </span>
+                </div>
+              </div>
+              <div className="flex items-center gap-2 lg:gap-5">
+                <label className="switch switch-sm">
+                  <input type="checkbox" defaultValue={2} />
+                </label>
+              </div>
+              </div>
             <div className="flex items-center justify-between flex-wrap gap-2 px-5 py-3.5">
               <div className="flex items-center flex-wrap gap-2">
                 <div className="flex items-center justify-center shrink-0 rounded-full bg-gray-100 border border-gray-200 size-10">

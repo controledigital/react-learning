@@ -1,0 +1,19 @@
+name: codi
+
+services:
+  app:
+    image: node:20-alpine
+    working_dir: /codi
+    volumes:
+      - .:/codi
+    ports:
+      - "6001:3000"
+    # development
+    command: npm run dev
+    # production
+    #command: npm run start
+    environment:
+      NODE_ENV: development
+    stdin_open: true  # Keep stdin open even if not attached
+    tty: true  # Allocate a pseudo-TTY for the container
+    user: "1000:1000"  # Run as the user with UID 1000 and GID 1000
