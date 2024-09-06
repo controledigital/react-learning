@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html className="h-full light" data-theme="true" lang="en">
       <Head />
-      <body className="antialiased flex h-full coditpl sidebar-fixed header-fixed bg-[#fefefe] dark:bg-coal-500">
+      <body className="antialiased flex h-full coditpl sidebar-fixed sidebar-collapse header-fixed bg-[#fefefe] dark:bg-coal-500">
         <Main />
         <NextScript />
         <script
